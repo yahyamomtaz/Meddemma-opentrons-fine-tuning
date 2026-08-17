@@ -1,0 +1,25 @@
+{
+  "catalog": "data/catalog.csv",
+  "dataset_dir": "data/cleaned",
+  "catalog_reagents_accepted": 70,
+  "catalog_reagents_rejected": 7,
+  "splits": {
+    "train": {
+      "examples": 656,
+      "changed_examples": 83,
+      "empty_before": 465,
+      "empty_after": 400,
+      "reagents_added": 89,
+      "review_candidates": 33
+    },
+    "eval": {
+      "examples": 164,
+      "changed_examples": 21,
+      "empty_before": 104,
+      "empty_after": 90,
+      "reagents_added": 22,
+      "review_candidates": 5
+    }
+  },
+  "audit_rows": 149
+}

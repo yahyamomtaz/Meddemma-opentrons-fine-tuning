@@ -1,0 +1,318 @@
+name,cas,vendor,sku,concentration,hazard,notes
+![tips](https://opentrons-protocol-library-website.s3.amazonaws.com/custom-README-images/sci-xgen-mc/Screen+Shot+2022-04-28+at+11.27.31+AM.png),,Opentrons,,,,Labware referenced by protocol sci-idt-xgen-mc
+"* [NEST 0.1 mL 96-Well PCR Plate, Full Skirt",,Opentrons,,,,Labware referenced by protocol sci-idt-xgen-mc
+1.5mL [Microcentrigue Tubes](https://shop.opentrons.com/collections/verified-consumables/products/nest-microcentrifuge-tubes),,Opentrons,,,,Labware referenced by protocol 3d942d
+1000 uL tipracks,,Opentrons,,,,Labware referenced by protocol 357404
+"10ul per sample per column, I.e. 24 samples will have 30 uL in slot 1 A1, 30 uL in slot 1 B1, etc.",,,,,,"Used in protocol ff5763_part2 (Illumina DNA Prep Part 2, Post-Tagmentation Clean Up)"
+3DPrint 96 Tube Rack with Nippon 0.2 mL #U0014,,Opentrons,,,,Labware referenced by protocol 00c517-pt2
+3x NEST 1 Well Reservoir 195ml,,Opentrons,,,,Labware referenced by protocol 3308b4
+3x NEST 96 Deepwell Plate 2ml,,Opentrons,,,,Labware referenced by protocol 3308b4
+96 Index Plate,,Opentrons,,,,Labware referenced by protocol 08fd01-pt2
+ACN,,,,,,Used in protocol 121d15-repeat (Manual Cleave with Repeat for 2nd EDA)
+Abgene 96 Well Plate 2200 µL #AB-0932,,Opentrons,,,,Labware referenced by protocol 051557
+Abgene Midi 96 Well Plate 800 µL,,Opentrons,,,,Labware referenced by protocol 3607d5-3
+Agilent 1 Well Reservoir 290 mL #201252-100,,Opentrons,,,,Labware referenced by protocol macherey-nagel-nucleomag-pathogen
+Agilent 1-Well Reservoir 290 mL,,Opentrons,,,,Labware referenced by protocol 357404
+Agilent 96 Well Plate 1400 µL #204355-100,,Opentrons,,,,Labware referenced by protocol 00c517-pt2
+Agilent 96 Well Plate 200 µL #5042-8502,,Opentrons,,,,Labware referenced by protocol 0cded6-tagment
+Agilent 96 Well Plate 500 µL #5042-1385,,Opentrons,,,,Labware referenced by protocol 00c517-pt2
+Agilent With Nonskirted 96 Well Plate 200 µL,,Opentrons,,,,Labware referenced by protocol 0cded6-tagment
+Amino,,,,,,Used in protocol 121d15-repeat (Manual Cleave with Repeat for 2nd EDA)
+Amplifyt 96 Well Plate 200 µL,,Opentrons,,,,Labware referenced by protocol 17d210
+Ampure XP for Size Selection,,,,,,Used in protocol illumina-nextera-XT-library-prep-part2 (Nextera XT DNA Library Prep Kit Protocol: Part 2/4 - Clean Up Libraries)
+Antibody 1,,,,,,Used in protocol 357404 (Slide Sample Antibody Staining)
+Antibody 2,,,,,,Used in protocol 357404 (Slide Sample Antibody Staining)
+Applied Biosystems MicroAmp™ Optical 96-Well Reaction Plate #N8010560,,Opentrons,,,,Labware referenced by protocol 277a3d
+Axygen 96well minitube system corning 96 wellplate 1320µL,,Opentrons,,,,Labware referenced by protocol 029f5b
+BIOPlastics BV 96 Aluminum Block 100 µL #B59001-1,,Opentrons,,,,Labware referenced by protocol gsdx
+BIOPlastics BV 96 Aluminum Block 200 µL #K58001-B58009,,Opentrons,,,,Labware referenced by protocol gsdx
+Barcode 96 Well Plate 200 µL,,Opentrons,,,,Labware referenced by protocol quintara_onsite_nanopore
+Beckman Coulter RNAdvance Viral kit,,,,,,Used in protocol bc-rnadvance-viral-feat (Beckman Coulter RNAdvance Viral RNA Isolation)
+Bio-RAD 96 Well Plate 200ul PCR,,Opentrons,,,,Labware referenced by protocol 3d02be
+Bio-RAD 96 well plate 200ul,,Opentrons,,,,Labware referenced by protocol 0bf4f4-pt3
+Bio-Rad 96 Well Plate 200 µL PCR,,Opentrons,,,,Labware referenced by protocol 4c8861
+Bio-Rad 96 Well Plate 200 µL PCR #hsp9601,,Opentrons,,,,Labware referenced by protocol onsite_galatea_normalization
+Bio-Rad 96 Well Plate 200 µL PCR Full Skirt,,Opentrons,,,,Labware referenced by protocol 74841a-2
+Bio-Rad 96 Well Plate 350 µL #HSS9601,,Opentrons,,,,Labware referenced by protocol 0849c2
+Bio-Rad 96-Well Plate,,Opentrons,,,,Labware referenced by protocol gna_octea
+Bio-Rad Hard-Shell 96 Well Plate 200 µL PCR,,Opentrons,,,,Labware referenced by protocol 04eeb1-part-3
+BioRad 96 Well Plate,,Opentrons,,,,Labware referenced by protocol e54ada_rt
+Biorad 96 well plate 200ul,,Opentrons,,,,Labware referenced by protocol 3b0db0
+Biotage ProPlus LX PhyTip® Columns,,,,,,"Used in protocol sci-phytip-protein-puri (Phytip Protein A, ProPlus, ProPlus LX Columns - Protein Purification)"
+Biotage ProPlus PhyTip® Columns,,,,,,"Used in protocol sci-phytip-protein-puri (Phytip Protein A, ProPlus, ProPlus LX Columns - Protein Purification)"
+Biotage Protein A PhyTip® Columns,,,,,,"Used in protocol sci-phytip-protein-puri (Phytip Protein A, ProPlus, ProPlus LX Columns - Protein Purification)"
+Block,,,,,,Used in protocol 357404 (Slide Sample Antibody Staining)
+Buffer kit provided by Biotage,,,,,,"Used in protocol sci-phytip-protein-puri (Phytip Protein A, ProPlus, ProPlus LX Columns - Protein Purification)"
+Cells (Column 3 of 12-Well Reservoir),,,,,,Used in protocol 1adec6-2 (Seed Cells [2/7])
+Cells (Column 4 of 12-Well Reservoir),,,,,,Used in protocol 1adec6-2 (Seed Cells [2/7])
+Color Code,,,,,,"Used in protocol ff5763_part2 (Illumina DNA Prep Part 2, Post-Tagmentation Clean Up)"
+Color code,,,,,,"Used in protocol ff5763_part4 (Illumina DNA Prep Part 4, Clean Up Libraries 1)"
+Combo 96 Well Plate Black Label on Nest Plate 300µL,,Opentrons,,,,Labware referenced by protocol quintara_onsite_nanopore
+Corning 24 Well Plate 3.4 mL Flat #3337,,Opentrons,,,,Labware referenced by protocol 0f409e
+Corning 360ul 96 well plate flat,,Opentrons,,,,Labware referenced by protocol 3c9aec
+Corning 384 Well Plate 112 µL Flat #3640,,Opentrons,,,,Labware referenced by protocol 056543
+Corning 384-Well Plate,,Opentrons,,,,Labware referenced by protocol 3d942d
+Corning 96 Well Plate 360 ul Flat,,Opentrons,,,,Labware referenced by protocol 925d07-v3
+Corning 96 Well Plate 360 µL Flat,,Opentrons,,,,Labware referenced by protocol 30450c
+Corning 96 Well Plate 360 µL Flat #3650,,Opentrons,,,,Labware referenced by protocol sci-lucif-assay4-for4
+"Corning 96 well plate, flat",,Opentrons,,,,Labware referenced by protocol 7aad4e
+Costar 96 Well Plate,,Opentrons,,,,Labware referenced by protocol 4d9b8b
+Costar 96 Well Plate 330 µL #Corning - 3779,,Opentrons,,,,Labware referenced by protocol 00c517-pt2
+Custom 0.12 and 0.2mL 96 well plates,,Opentrons,,,,Labware referenced by protocol onsite_atila_saliva384_pt1
+Custom 384 Well Plate 100 ul,,Opentrons,,,,Labware referenced by protocol 925d07-v3
+Custom 384 well plate,,Opentrons,,,,Labware referenced by protocol 08fd01-pt2
+Custom 3D printed block for holding Shandon coverplates + slides.,,Opentrons,,,,Labware referenced by protocol 357404
+Custom 40 Tube Rack,,Opentrons,,,,Labware referenced by protocol onsite-bms
+Custom 48-tuberack,,Opentrons,,,,Labware referenced by protocol 121d15-2-96-Greiner-500
+Custom 8-tube 20ml tube rack,,Opentrons,,,,Labware referenced by protocol 4d9b8b
+"Custom 96 Well Plate with AB Gene and NEST 96 well plate with samples, slot 2",,Opentrons,,,,Labware referenced by protocol ff5763_part2
+Custom 96-tuberack,,Opentrons,,,,Labware referenced by protocol 121d15-4
+Custom Plate for GNA Octea Chip,,Opentrons,,,,Labware referenced by protocol gna_octea
+DPBS,,,,,,Used in protocol 0e525c (droplet digital PCR Prep)
+EDA,,,,,,Used in protocol 121d15-repeat (Manual Cleave with Repeat for 2nd EDA)
+Empty Opentrons 300µL Tip Rack for PhyTip® Columns,,Opentrons,,,,Labware referenced by protocol sci-phytip-protein-puri
+Eppendorf 1.5 mL Safe-Lock Snapcap,,Opentrons,,,,Labware referenced by protocol 979d28-normalization
+Eppendorf 7 Reservoir 100000 µL #960051017,,Opentrons,,,,Labware referenced by protocol 051557
+Eppendorf 7 Reservoir 30000 µL #960051009,,Opentrons,,,,Labware referenced by protocol 051557
+Eppendorf 96 well plate full skirt,,Opentrons,,,,Labware referenced by protocol sci-roche-hyperprep
+Eppendorf Isopaks,,Opentrons,,,,Labware referenced by protocol 0e7175
+Eppendorf Twin.tec 96 Well Plate 150 µL,,Opentrons,,,,Labware referenced by protocol 0523c2
+"EtOH 80% freshly made, Reservoir in slot 5 well 12 (200ul per sample)",,,,,,"Used in protocol ff5763_part5 (Illumina DNA Prep Part 5, Clean Up Libraries 2)"
+Eurofins genomics Saliva Direct primer and probe set,,,,,,Used in protocol 3b0db0 (Temperature Controlled PCR Prep With Tube Strips)
+FisherSci 96 Well Plate 1mL,,Opentrons,,,,Labware referenced by protocol 3d02be
+Fluidigm 96.96 Dynamic Array™ IFC for Gene Expression,,Opentrons,,,,Labware referenced by protocol 2aee74-48-3
+GAPDH Polyclonal antibody,,,,,,Used in protocol sci-dynabeads-ip-1 (Dynabeads for IP Reagent-In-Plate Part 1)
+GeneRead QIAact Lung DNA UMI Panel Kit,,,,,,Used in protocol 6d7fc3-part-3 (GeneRead QIAact Lung DNA UMI Panel Kit: Cleanup of Adapter-ligated DNA with QIAact Beads)
+GeneRead QIAact Lung RNA Fusion UMI Panel Kit,,,,,,Used in protocol 111210-part-4 (GeneRead QIAact Lung RNA Fusion UMI Panel Kit: End repair / dA tailing)
+Generic PCR Strips in [96-well aluminum block](https://shop.opentrons.com/collections/hardware-modules/products/aluminum-block-set),,Opentrons,,,,Labware referenced by protocol 925d07-v3
+Genesee 96 Well Plate 200 µL #Olympus  #24-301,,Opentrons,,,,Labware referenced by protocol 0f0850
+GoldStandardDx 96 Tip Rack 200 µL,,Opentrons,,,,Labware referenced by protocol gsdx
+Greiner 384 Well Plate,,Opentrons,,,,Labware referenced by protocol 1fcf02
+Greiner 96 well Chimney Bottom,,Opentrons,,,,Labware referenced by protocol 0e7175
+Greiner MASTERBLOCK 384 Well Plate 225 µL,,Opentrons,,,,Labware referenced by protocol 121d15-2-384
+Greiner MASTERBLOCK 96 Well Plate 500 µL,,Opentrons,,,,Labware referenced by protocol 121d15-2-96-Greiner-500
+"Greiner Microplate, 96 Well, PP, V-Bottom",,Opentrons,,,,Labware referenced by protocol e54ada_rt
+Greiner_UV-star 96 Well Plate 392 µL,,Opentrons,,,,Labware referenced by protocol 00c517
+Greiner_UV-star 96 Well Plate 392 µL #655801,,Opentrons,,,,Labware referenced by protocol 00c517-pt2
+HB1,,,,,,Used in protocol gna_octea (Automated Sample Prep for GNA Octea)
+"IPB, PCR Tubes in slot 1 column 1 (15ul per sample per column)",,,,,,"Used in protocol ff5763_part5 (Illumina DNA Prep Part 5, Clean Up Libraries 2)"
+Illumina COVIDSeq Test,,,,,,Used in protocol 04eeb1-part-3 (Illumina COVIDSeq Test: Amplify cDNA)
+Illumina DNA Prep,,,,,,Used in protocol bms-illumina-dna-prep (Illumina DNA Prep - BMS)
+Illumina DNA Prep LP with Enrichment (S) Tag) (Ref. 20025524),,,,,,"Used in protocol 4ee4d6-part2 (Illumina DNA Prep with Enrichment: Part 2 - Clean Up and Pool Libraries, Hybridize and Capture Probes, Amplify Enriched Library, Clean Up Enriched Library)"
+Illumina DNA Prep with Enrichment Kit,,,,,,"Used in protocol 4ee4d6-part2 (Illumina DNA Prep with Enrichment: Part 2 - Clean Up and Pool Libraries, Hybridize and Capture Probes, Amplify Enriched Library, Clean Up Enriched Library)"
+"Illumina Purification Bead, PCR Tubes in slot 1 column 3",,,,,,"Used in protocol ff5763_part4 (Illumina DNA Prep Part 4, Clean Up Libraries 1)"
+Illumina RNA Prep with Enrichment,,,,,,Used in protocol sci-illumina-rna-enrichment-normalization (Illumina RNA Prep with Enrichment: Normalization)
+Illumina TruSight Cardio Oligos (Ref. 20029229),,,,,,"Used in protocol 4ee4d6-part2 (Illumina DNA Prep with Enrichment: Part 2 - Clean Up and Pool Libraries, Hybridize and Capture Probes, Amplify Enriched Library, Clean Up Enriched Library)"
+Ilumina DNA Prep,,,,,,Used in protocol 0bf4f4-pt3 (Ilumina DNA Prep Part 3 - Clean up Libraries)
+"KAPA Hyper Plus 96rx, cat 07962428001 ROCHE",,,,,,"Used in protocol 1f96ca (NGS Library Prep: KAPA Hyper Plus 96rx, cat 07962428001 ROCHE - part 1 of 2 - Fragmentation, End Repair, Adapter Ligation, Library Amplification)"
+KingFisher 96 Tube Rack with GoldStandard 1.1 mL #10536617,,Opentrons,,,,Labware referenced by protocol gsdx
+KingFisher 96 Well Plate 200 µL #97002540,,Opentrons,,,,Labware referenced by protocol 055f76
+Kingfisher 96 Well Plate,,Opentrons,,,,Labware referenced by protocol 13ea1e
+Logix Smart Nasopharyngeal Covid-19 Kit,,,,,,Used in protocol 313086 (Logix Smart Nasopharyngeal Covid-19 Plating (Station A))
+MB Lyo,,,,,,Used in protocol gna_octea (Automated Sample Prep for GNA Octea)
+MM Lyo,,,,,,Used in protocol gna_octea (Automated Sample Prep for GNA Octea)
+Macherey Nagel 96 Well Elution Plate U-bottom,,Opentrons,,,,Labware referenced by protocol macherey-nagel-nucleomag-pathogen
+Macherey Nagel 96 Well Square Well Block,,Opentrons,,,,Labware referenced by protocol macherey-nagel-nucleomag-pathogen
+Mag-Bind® Viral DNA/RNA 96 Kit,,,,,,Used in protocol sci-omegabiotek-magbind (Mag-Bind® Viral DNA/RNA 96 Kit)
+Master Mix,,,,,,Used in protocol 0e525c (droplet digital PCR Prep)
+MicroAmp EnduraPlate Optical 96-Well Clear Reaction Plates with Barcode,,Opentrons,,,,Labware referenced by protocol 4568fa
+"MicroAmp™ Fast Optical 96-Well Reaction Plate with Barcode, 0.1 mL",,Opentrons,,,,Labware referenced by protocol 698b9e-part2
+NEB User Guide,,,,,,Used in protocol 0479ad-part-3 (NEBNext Ultra II RNA Library Prep Kit for Illumina: E7770S Section 1 with Poly(A) Isolation using Oligo-dT Beads: Part-3 - Bead Purification of Double-Stranded cDNA)
+"NEBNext® Ultra™ II DNA Library Prep Kit for Illumina, Catalog # E7645S / E7645L (https://international.neb.com/products/e7645-nebnext-ultra-ii-dna-library-prep-kit-for-illumina#Product%20Information)",,,,,,Used in protocol 11bb6a-part-2 (Quarter Volume Library Prep Step 2: Sample Cleanup for Covaris Samples)
+"NEBNext® Ultra™ II FS DNA Library Prep Kit for Illumina, Catalog # E7805S / E7805L (https://international.neb.com/products/e7805-nebnext-ultra-ii-fs-dna-library-prep-kit-for-illumina#Product%20Information)",,,,,,Used in protocol 11bb6a-part-2 (Quarter Volume Library Prep Step 2: Sample Cleanup for Covaris Samples)
+"NEST 0.1 mL 96-Well PCR Plate, Full Skirt",,Opentrons,,,,Labware referenced by protocol sci-idt-xgen-mc
+NEST 1 Reservoir 195mL,,Opentrons,,,,Labware referenced by protocol sci-omegabiotek-magbind
+NEST 1 Reservoir 195ml,,Opentrons,,,,Labware referenced by protocol 121d15-4
+NEST 1 Well Reservoir 195 mL,,Opentrons,,,,Labware referenced by protocol 211a24
+NEST 1 Well Reservoir 195 mL #360103,,Opentrons,,,,Labware referenced by protocol 00f7b1_part6
+"NEST 1-Well Reservoir, 195 mL",,Opentrons,,,,Labware referenced by protocol 0ff0c3
+"NEST 1-Well Reservoirs, 195 mL",,Opentrons,,,,Labware referenced by protocol sci-dynabeads-ip-1
+NEST 100ul Full Skirted PCR Plate,,Opentrons,,,,Labware referenced by protocol 5fa647
+NEST 12 Reservoir 15mL,,Opentrons,,,,Labware referenced by protocol sci-omegabiotek-magbind
+NEST 12 Well Reservoir 15 mL,,Opentrons,,,,Labware referenced by protocol 979d28-normalization
+NEST 12 Well Reservoir 15 mL #360102,,Opentrons,,,,Labware referenced by protocol sci-lucif-assay4-for4
+"NEST 12 Well Reservoir 15 mL, 2x",,Opentrons,,,,Labware referenced by protocol bc-rnadvance-viral-feat
+NEST 12 Well Reservoir 195mL,,Opentrons,,,,Labware referenced by protocol sci-roche-hyperprep
+NEST 12 well Reseroir 195mL,,Opentrons,,,,Labware referenced by protocol 3c9aec
+NEST 12-Well 15ml Reservoir,,Opentrons,,,,Labware referenced by protocol ff5763_part2
+"NEST 12-Well Reservoir, 15 mL",,Opentrons,,,,Labware referenced by protocol 2aee74-96-2
+"NEST 12-Well Reservoir, 15mL",,Opentrons,,,,Labware referenced by protocol 1adec6-2
+NEST 12-Well Reservoirs 15mL,,Opentrons,,,,Labware referenced by protocol 0aee8a
+"NEST 12-Well Reservoirs, 15 mL",,Opentrons,,,,Labware referenced by protocol 04eeb1-part-3
+NEST 195ml Reservoir,,Opentrons,,,,Labware referenced by protocol ff5763_part2
+"NEST 2 mL 96-Well Deep Well Plate, V Bottom",,Opentrons,,,,Labware referenced by protocol sci-dynabeads-ip-1
+NEST 2ml Deep Well Plate,,Opentrons,,,,Labware referenced by protocol ff5763_part2
+NEST 96 2mL Deep Well Plate,,Opentrons,,,,Labware referenced by protocol 3d02be
+NEST 96 Deepwell Plate 2mL,,Opentrons,,,,Labware referenced by protocol 979d28
+NEST 96 Deepwell Plate 2mL #503001,,Opentrons,,,,Labware referenced by protocol 0f3b60
+NEST 96 Well 100 uL PCR Plate,,Opentrons,,,,Labware referenced by protocol 6d7fc3-part-3
+NEST 96 Well Plate,,Opentrons,,,,Labware referenced by protocol onsite-ganda-1
+NEST 96 Well Plate 100 µL PCR Full Skirt,,Opentrons,,,,Labware referenced by protocol 211a24
+NEST 96 Well Plate 100 µL PCR Full Skirt #402501,,Opentrons,,,,Labware referenced by protocol 0f3b60
+NEST 96 Well Plate Flat,,Opentrons,,,,Labware referenced by protocol onsite-bms
+NEST 96 Wellplate 2mL,,Opentrons,,,,Labware referenced by protocol sci-omegabiotek-magbind
+"NEST 96-Deep Well Plate, 2mL",,Opentrons,,,,Labware referenced by protocol gna_octea
+"NEST 96-Well PCR Plate, 100µL",,Opentrons,,,,Labware referenced by protocol standard-biotools-da-96
+NEST 96-Well PCR Plates,,Opentrons,,,,Labware referenced by protocol 657ee9-3
+NEST 96-Well Plate,,Opentrons,,,,Labware referenced by protocol 3d942d
+NEST PCR 8-Strip Tubes 0.2ml #403022,,Opentrons,,,,Labware referenced by protocol 13ac78
+Nest 12 Well Reservoir,,Opentrons,,,,Labware referenced by protocol 08fd01-pt2
+Nest 12 Well Reservoir 15mL,,Opentrons,,,,Labware referenced by protocol 0bf4f4-pt3
+"Nest 12 Well Reservoir, 195mL",,Opentrons,,,,Labware referenced by protocol 5c50d9
+Nest 195 mL Reservoir,,Opentrons,,,,Labware referenced by protocol 30450c
+Nest 96 well plate full skirt,,Opentrons,,,,Labware referenced by protocol sci-roche-hyperprep
+Nest 96 well plate full skirt 100 µL,,Opentrons,,,,Labware referenced by protocol bms-illumina-dna-prep
+"New Custom 96 Well Plate with AB Gene and NEST 96 well plate with samples, slot 2",,Opentrons,,,,Labware referenced by protocol ff5763_part5
+New [NEST 2ml Deep Well Plate](https://shop.opentrons.com/nest-2-ml-96-well-deep-well-plate-v-bottom/) in slot 3,,Opentrons,,,,Labware referenced by protocol ff5763_part4
+Nextera XT DNA Library Prep Kit,,,,,,Used in protocol illumina-nextera-XT-library-prep-part2 (Nextera XT DNA Library Prep Kit Protocol: Part 2/4 - Clean Up Libraries)
+Nick is working on auto-filling these sections from the protocol (3/28/2021),,,,,,Used in protocol sci-roche-hyperprep (Roche HyperPrep)
+Nuclear counterstain,,,,,,Used in protocol 357404 (Slide Sample Antibody Staining)
+Nuclease Free Water,,,,,,Used in protocol 3308b4 (PCR/qPCR Prep)
+"Nuclease Free Water, PCR Tubes in slot 1 column 1,",,,,,,"Used in protocol ff5763_part4 (Illumina DNA Prep Part 4, Clean Up Libraries 1)"
+Nuclease-Free Water,,,,,,Used in protocol 0e525c (droplet digital PCR Prep)
+Nunc™ 96-Well Polypropylene Storage Microplates,,Opentrons,,,,Labware referenced by protocol 698b9e-part2
+"OT-2 Filter Tips, 200µL",,Opentrons,,,,Labware referenced by protocol 0ff0c3
+"OT-2 Filter Tips, 200µL (999-00081)",,Opentrons,,,,Labware referenced by protocol 0e525c
+"OT-2 Filter Tips, 20µL (999-00099)",,Opentrons,,,,Labware referenced by protocol 0e525c
+Olink® Target 48,,,,,,Used in protocol 2aee74-48-3 (Olink® Target 48 Part 3/3: Detection)
+Olink® Target 96,,,,,,Used in protocol 2aee74-96-2 (Olink® Target 96 Part 2/3: Extension)
+Omega Mag-Bind® Total RNA 96 Kit,,,,,,Used in protocol 979d28 (Omega Mag-Bind® Total RNA Isolation)
+Oncomine Focus Assay,,,,,,Used in protocol 657ee9-3 (Oncomine Focus Assay - Pt 3: Ligate Adapters)
+OpenArray Mastermix,,,,,,Used in protocol 3d942d (Custom PCR Setup from CSV)
+"Opentrons 10 Tube Rack with Falcon 4x50 mL, 6x15 mL Conical",,Opentrons,,,,Labware referenced by protocol 00c517-pt2
+Opentrons 1000uL Tips,,Opentrons,,,,Labware referenced by protocol 00bbd7
+Opentrons 1000ul Tips,,Opentrons,,,,Labware referenced by protocol onsite-bms
+Opentrons 1000ul tips,,Opentrons,,,,Labware referenced by protocol 528c16
+Opentrons 1000µl tipracks,,Opentrons,,,,Labware referenced by protocol 313086
+Opentrons 15 Tube Rack with NEST 15 mL Conical,,Opentrons,,,,Labware referenced by protocol sci-phytip-neutralization
+Opentrons 200 uL Filter Tips,,Opentrons,,,,Labware referenced by protocol 04eeb1-part-3
+Opentrons 200uL Filter Tips,,Opentrons,,,,Labware referenced by protocol 19313a
+Opentrons 200ul Filter Tip Rack,,Opentrons,,,,Labware referenced by protocol 0bf4f4-pt3
+Opentrons 200ul Filter Tips,,Opentrons,,,,Labware referenced by protocol sci-roche-hyperprep
+Opentrons 200ul Filter tips,,Opentrons,,,,Labware referenced by protocol 7aad4e
+Opentrons 200ul Tips,,Opentrons,,,,Labware referenced by protocol 4c8861
+Opentrons 200ul filter tips,,Opentrons,,,,Labware referenced by protocol 5c50d9
+Opentrons 200µL Filter Tips,,Opentrons,,,,Labware referenced by protocol sci-idt-xgen-mc
+Opentrons 20uL Filter Tips,,Opentrons,,,,Labware referenced by protocol e54ada_rt
+Opentrons 20ul Filter Tip Rack,,Opentrons,,,,Labware referenced by protocol 0bf4f4-pt3
+Opentrons 20ul Filter Tips,,Opentrons,,,,Labware referenced by protocol sci-roche-hyperprep
+Opentrons 20ul Filter tips,,Opentrons,,,,Labware referenced by protocol 08fd01-pt2
+Opentrons 20ul Tips,,Opentrons,,,,Labware referenced by protocol onsite-bms
+Opentrons 20ul tips,,Opentrons,,,,Labware referenced by protocol 925d07-v3
+Opentrons 20µL Filter Tip Rack,,Opentrons,,,,Labware referenced by protocol 657ee9-3
+Opentrons 20µL Filter Tips,,Opentrons,,,,Labware referenced by protocol 3d942d
+Opentrons 20µL Tips,,Opentrons,,,,Labware referenced by protocol 13ea1e
+Opentrons 20µl Tiprack,,Opentrons,,,,Labware referenced by protocol 3607d5-4
+Opentrons 20µl Tipracks,,Opentrons,,,,Labware referenced by protocol 17d210
+Opentrons 20µl and 300µl Tipracks,,Opentrons,,,,Labware referenced by protocol 3607d5-3
+Opentrons 24 Tube Rack,,Opentrons,,,,Labware referenced by protocol 4568fa
+Opentrons 24 Tube Rack with Eppendorf 1.5 mL Safe-Lock Snapcap,,Opentrons,,,,Labware referenced by protocol 9038af
+Opentrons 24 Tube Rack with Generic 2 mL Screwcap,,Opentrons,,,,Labware referenced by protocol macherey-nagel-nucleomag-pathogen
+Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap,,Opentrons,,,,Labware referenced by protocol 9038af
+Opentrons 24 Well Aluminum Block with NEST 1.5 mL Snapcap,,Opentrons,,,,Labware referenced by protocol 051557
+Opentrons 24 tuberack,,Opentrons,,,,Labware referenced by protocol 313086
+Opentrons 24 well Aluminum tube rack,,Opentrons,,,,Labware referenced by protocol 5fa647
+Opentrons 300uL Tips,,Opentrons,,,,Labware referenced by protocol 19313a
+Opentrons 300ul Tips,,Opentrons,,,,Labware referenced by protocol 32207e
+Opentrons 300µL Tipracks,,Opentrons,,,,Labware referenced by protocol 1adec6-2
+Opentrons 300µL Tips,,Opentrons,,,,Labware referenced by protocol sci-dynabeads-ip-1
+Opentrons 300µl Tiprack,,Opentrons,,,,Labware referenced by protocol 3607d5-4
+Opentrons 300µl tipracks,,Opentrons,,,,Labware referenced by protocol 313086
+Opentrons 4-in-1 Tube Rack,,Opentrons,,,,Labware referenced by protocol e54ada_rt
+Opentrons 4-in-1 Tube Rack Set,,Opentrons,,,,Labware referenced by protocol sci-illumina-rna-enrichment-normalization
+Opentrons 4-in-1 Tube Rack with 50mL Falcon Tubes,,Opentrons,,,,Labware referenced by protocol 32207e
+Opentrons 4-in-1 Tube Racks,,Opentrons,,,,Labware referenced by protocol onsite_atila_saliva384_pt1
+Opentrons 4-in-1 Tuberack,,Opentrons,,,,Labware referenced by protocol 4c8861
+Opentrons 4-in-1 Tuberack Set,,Opentrons,,,,Labware referenced by protocol 3607d5-4
+Opentrons 4-in-1 tube rack with 1.5mL Eppendorf snap cap tubes,,Opentrons,,,,Labware referenced by protocol 528c16
+Opentrons 4-in-1 tube rack with 1.5mL tubes,,Opentrons,,,,Labware referenced by protocol 13ea1e
+Opentrons 4-in-1 tube rack with 15 tube insert,,Opentrons,,,,Labware referenced by protocol 5c50d9
+Opentrons 4-in-1 tube rack with 50mL & 15mL Falcon tubes,,Opentrons,,,,Labware referenced by protocol 528c16
+Opentrons 6 Tube Rack with Falcon 50 mL Conical,,Opentrons,,,,Labware referenced by protocol 04552f
+Opentrons 6 Tube Rack with NEST 50 mL Conical,,Opentrons,,,,Labware referenced by protocol onsite-bms
+Opentrons 96 Aluminum block Nest Wellplate 100ul,,Opentrons,,,,Labware referenced by protocol sci-omegabiotek-magbind
+Opentrons 96 Filter Tip Rack 1000 µL,,Opentrons,,,,Labware referenced by protocol 0f409e
+Opentrons 96 Filter Tip Rack 20 µL,,Opentrons,,,,Labware referenced by protocol 00f7b1_part6
+Opentrons 96 Filter Tip Rack 200 µL,,Opentrons,,,,Labware referenced by protocol 00f7b1_part6
+"Opentrons 96 Filter Tip Rack 200 µL, up to 10x depending on throughput",,Opentrons,,,,Labware referenced by protocol bc-rnadvance-viral-feat
+Opentrons 96 Tip Rack 1000 µL,,Opentrons,,,,Labware referenced by protocol macherey-nagel-nucleomag-pathogen
+Opentrons 96 Tip Rack 20 µL,,Opentrons,,,,Labware referenced by protocol 9038af
+Opentrons 96 Tip Rack 300 µL,,Opentrons,,,,Labware referenced by protocol sci-lucif-assay4-for4
+Opentrons 96 Well Aluminum Block,,Opentrons,,,,Labware referenced by protocol 17d210
+Opentrons 96 Well Aluminum Block with Bio-Rad Well Plate 200 µL,,Opentrons,,,,Labware referenced by protocol 9038af
+Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL,,Opentrons,,,,Labware referenced by protocol 00f7b1_part6
+Opentrons 96 tiprack 300ul,,Opentrons,,,,Labware referenced by protocol sci-omegabiotek-magbind
+Opentrons Aluminum Block Set,,Opentrons,,,,Labware referenced by protocol 6d7fc3-part-3
+Opentrons Filter Tip Racks 200ul,,Opentrons,,,,Labware referenced by protocol 698b9e-part2
+Opentrons Filter Tip Racks 20ul,,Opentrons,,,,Labware referenced by protocol 698b9e-part2
+Opentrons Filter Tips,,Opentrons,,,,Labware referenced by protocol 6d7fc3-part-3
+Opentrons Filter Tips for the P20 and P300,,Opentrons,,,,Labware referenced by protocol 0479ad-part-3
+Opentrons Filter Tips for the P20 and P300 (https://shop.opentrons.com),,Opentrons,,,,Labware referenced by protocol 11bb6a-part-2
+Opentrons HEPA Filter Module,,Opentrons,,,,Labware referenced by protocol sci-lucif-assay4-for4
+Opentrons Magnetic Module,,Opentrons,,,,Labware referenced by protocol 0479ad-part-3
+Opentrons Magnetic Module (https://shop.opentrons.com/modules/),,Opentrons,,,,Labware referenced by protocol 11bb6a-part-2
+Opentrons Nest 1 well Reservoir 290 mL,,Opentrons,,,,Labware referenced by protocol 029f5b
+Opentrons Temperature Module,,Opentrons,,,,Labware referenced by protocol 0479ad-part-3
+Opentrons Temperature Module (https://shop.opentrons.com/modules/),,Opentrons,,,,Labware referenced by protocol 11bb6a-part-2
+Opentrons Tips for the p300 (https://shop.opentrons.com),,Opentrons,,,,Labware referenced by protocol 30450c
+"Opentrons Tough 0.2 mL 96-Well PCR Plate, Full Skirt",,Opentrons,,,,Labware referenced by protocol 0ff0c3
+Opentrons Tube Rack,,Opentrons,,,,Labware referenced by protocol 3d942d
+Opentrons aluminum block set,,Opentrons,,,,Labware referenced by protocol bms-illumina-dna-prep
+Opentrons custom 4x6 3D printed tube racks,,Opentrons,,,,Labware referenced by protocol 3b0db0
+Opentrons tuberacks,,Opentrons,,,,Labware referenced by protocol 357404
+Opentrons tubes & vials,,Opentrons,,,,Labware referenced by protocol 357404
+Opentrons x Gold Standard 17 Tube Rack,,Opentrons,,,,Labware referenced by protocol gsdx
+Oxford Nanopore Technologies16S Barcoding Kit #SQK-RAB204,,,,,,Used in protocol 277a3d (Oxford Nanopore Technologies 16S Barcoding NGS Prep)
+"PCR Strip Tubes for Tagmentation Stop Buffer (TSB) in slot 1, row 5",,Opentrons,,,,Labware referenced by protocol ff5763_part2
+PCR tube strips,,Opentrons,,,,Labware referenced by protocol 3b0db0
+PRL tuberack for 32 15 mL tubes,,Opentrons,,,,Labware referenced by protocol 022548-2
+"Perkin Elmer 110ul 384 well plate, flat",,Opentrons,,,,Labware referenced by protocol 7aad4e
+PhenoPlate 384 Well Plate 145 µL #6057302,,Opentrons,,,,Labware referenced by protocol 01a6b9
+PhenoPlate 96 Well Plate 425 µL #6055302,,Opentrons,,,,Labware referenced by protocol 01a6b9
+Phosphate buffered saline (PBS),,,,,,Used in protocol 357404 (Slide Sample Antibody Staining)
+Preamp Mastermix,,,,,,Used in protocol 3d942d (Custom PCR Setup from CSV)
+Quantgene 96 Aluminum Block 200 µL,,Opentrons,,,,Labware referenced by protocol 0cded6-tagment
+RB1,,,,,,Used in protocol gna_octea (Automated Sample Prep for GNA Octea)
+ROAR_printed_ 48 Well Plate 1500 µL,,Opentrons,,,,Labware referenced by protocol 041adf
+"RSB, PCR Tubes in slot 1 column 3 (32ul per sample per column)",,,,,,"Used in protocol ff5763_part5 (Illumina DNA Prep Part 5, Clean Up Libraries 2)"
+Reliance One Step Mulitplex RT-qPCR supermix,,,,,,Used in protocol 3b0db0 (Temperature Controlled PCR Prep With Tube Strips)
+SPL 96-Well Cell Culture Plates (Round Bottom),,Opentrons,,,,Labware referenced by protocol 1adec6-2
+SPR Wash Buffer,,,,,,Used in protocol 3308b4 (PCR/qPCR Prep)
+"Sarstedt PCR plate full skirt, 96 well, transparent, Low Profile, 100 µl",,Opentrons,,,,Labware referenced by protocol 32207e
+Selected 96-well PCR plate ([see parameter dropdown list below] https://labware.opentrons.com/),,Opentrons,,,,Labware referenced by protocol 11bb6a-part-2
+Silicon Wafer with Opentrons Labware Adapter,,Opentrons,,,,Labware referenced by protocol 4d9b8b
+Standard BioTools 96.96 Dynamic Array IFC,,Opentrons,,,,Labware referenced by protocol standard-biotools-da-96
+Stellar Scientific 96 well plate,,Opentrons,,,,Labware referenced by protocol 300073-2
+SuperScript™ III Real Time PCR Kit,,,,,,Used in protocol 5fa647 (SuperScript™ III: qRT-PCR Prep with CSV File)
+Swift Normalase Amplicon Panels (SNAP),,,,,,Used in protocol 74841a-2 (Swift Normalase Amplicon Panels (SNAP): Size Selection and Cleanup Part 2/2)
+"Tagmentation Stop Buffer (TSB) in PCR tubes, slot 1 row 1",,,,,,"Used in protocol ff5763_part2 (Illumina DNA Prep Part 2, Post-Tagmentation Clean Up)"
+"Tagmentation Wash Buffer (TWB) in slot 5 well 1, 300ul per sample",,,,,,"Used in protocol ff5763_part2 (Illumina DNA Prep Part 2, Post-Tagmentation Clean Up)"
+Thermo Fisher 96 Well Plate 200 µL #AB-3396,,Opentrons,,,,Labware referenced by protocol 00f7b1_part6
+Thermo Fisher Dynabeads™ Protein A,,,,,,Used in protocol sci-dynabeads-ip-1 (Dynabeads for IP Reagent-In-Plate Part 1)
+Thermo Fisher Dynabeads™ Protein G,,,,,,Used in protocol sci-dynabeads-ip-1 (Dynabeads for IP Reagent-In-Plate Part 1)
+Thermo Fisher Kingfisher 96 deepwell plate 2 mL,,Opentrons,,,,Labware referenced by protocol 022548-2
+Thermo Fisher Nunc™ 96-Well Polypropylene Storage Microplates,,Opentrons,,,,Labware referenced by protocol sci-phytip-protein-puri
+Thermo Scientific 96 Well Plate V Bottom 450 uL #249944/249946,,Opentrons,,,,Labware referenced by protocol sci-phytip-neutralization
+ThermoFisher 96 Well 0.8mL Polypropylene Deepwell Storage Plate,,Opentrons,,,,Labware referenced by protocol 516336
+ThermoFisher 96 Well PCR Plate 300 uL Semi-Skirted,,Opentrons,,,,Labware referenced by protocol 0479ad-part-3
+ThermoFisher MagMax Viral/Pathogen Kit,,,,,,Used in protocol 13ac78 (Custom 384-Well Plate PCR Prep)
+"ThermoFisher MicroAmp™ Fast Optical 96-Well Reaction Plate, 0.1 mL",,Opentrons,,,,Labware referenced by protocol 60d861-3
+ThermoFisher MicroAmp™ Optical 384-Well Reaction Plate #4343370,,Opentrons,,,,Labware referenced by protocol 13ac78
+ThermoFisher Scientific SuperScript™ IV VILO™ Master Mix #11756500,,,,,,"Used in protocol 60d861-3 (CYP Induction, Part 3/3)"
+ThermoFisher Scientific mRNA Catcher™ PLUS Purification Kit #K157003,,,,,,"Used in protocol 60d861-3 (CYP Induction, Part 3/3)"
+ThermoFisher TaqMan Fast Advanced Master Mix,,,,,,Used in protocol 13ac78 (Custom 384-Well Plate PCR Prep)
+Thermofisher 384 well plate,,Opentrons,,,,Labware referenced by protocol 0a33e8
+Thermofisher 96 Well Plate 300 µL #167008,,Opentrons,,,,Labware referenced by protocol 00222e-seed
+Thermofisher 96 well plate,,Opentrons,,,,Labware referenced by protocol 0a33e8
+Thomas Sci LabForce 96 Well Plate 200ul,,Opentrons,,,,Labware referenced by protocol 3d02be
+Tuberack 24 Well Plate 1500 µL,,Opentrons,,,,Labware referenced by protocol 0f0850
+USA Scientific 12 Well Reservoir 22 mL,,Opentrons,,,,Labware referenced by protocol 0479ad-part-3
+USA Scientific 12 Well Reservoir 22 mL #1061-8150,,Opentrons,,,,Labware referenced by protocol macherey-nagel-nucleomag-pathogen
+VHB Buffer,,,,,,Used in protocol 3308b4 (PCR/qPCR Prep)
+"VWR® PCR Plates, 96-Well 200ul #83007-374",,Opentrons,,,,Labware referenced by protocol 979d28-normalization
+Verogen ForenSeq DNA Signature Prep kit,,,,,,Used in protocol 17d210 (Verogen ForenSeq DNA Signature Prep Kit Part 1/5: PCR1 Setup)
+WB1,,,,,,Used in protocol gna_octea (Automated Sample Prep for GNA Octea)
+iAMP® COVID-19 Detection Kit,,,,,,Used in protocol onsite_atila_saliva384_pt1 (Atila iAMP COVID-19 Detection Kit - Saliva (Pt.1))
+kit name when applicable,,,,,,Used in protocol sci-roche-hyperprep (Roche HyperPrep)
+rhAmpSeq Library Preparation,,,,,,Used in protocol onsite-ganda-1 (rhAmpSeq Library Prep Part 1 - PCR 1)
+water,,,,,,Used in protocol 121d15-4 (Manual Cleave Elution)
