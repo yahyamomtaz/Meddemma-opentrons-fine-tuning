@@ -1,6 +1,6 @@
 {
   "catalog": "data/catalog.csv",
-  "dataset_dir": "data/cleaned",
+  "dataset_dir": "data",
   "catalog_reagents_accepted": 70,
   "catalog_reagents_rejected": 7,
   "splits": {
