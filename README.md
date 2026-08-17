@@ -56,36 +56,6 @@ description as the instruction and its structured metadata JSON as the target.
   list, pipettes, and categories are preserved, along with the file path so
   the original can be inspected.
 
-
-The dataset builder combines three complementary protocol artifacts. Structured
-runtime/API data take precedence over prose when available.
-
-| Field | Primary source | Fallback |
-| --- | --- | --- |
-| Description | `protocols/protocols/<slug>/README.md`, `Description` section | `README.json` description |
-| Title and categories | `README.json` | Protocol metadata title |
-| Labware | Runtime/API artifact: `<slug>.ot2.apiv2.py.json` | `README.json`, then README `Labware` section |
-| Pipettes | Runtime/API artifact `instruments` | `README.json`, then README `Pipettes` section |
-| Modules | Inferred from runtime/API labware names | `README.json` module section |
-| Reagents | `README.json` or README reagent sections | None |
-
-The runtime artifact is preferred for labware and instruments because it
-records what the protocol API loaded rather than relying only on prose mentions.
-
-### Cleaning and split
-
-The builder converts Markdown/HTML to plain text, removes embedded media and bare URLs,
-retains link labels, removes headings, rules, and common notes/troubleshooting
-boilerplate, and collapses excess blank lines. It discards descriptions shorter
-than 30 characters and records containing neither labware nor pipette metadata.
-Instrument IDs are converted to display names, and module names are inferred
-from explicit keywords such as `magnetic module`, `temperature module`, and
-`thermocycler`.
-
-Valid examples were shuffled with seed 42 and split 80/20 by protocol. The
-snapshot contains 820 records: 656 training and 164 evaluation records. No
-`source_protocol` identifier occurs in both splits.
-
 ### Reagent enrichment
 
 Because reagents have no runtime/API equivalent, a conservative catalog pass
@@ -184,20 +154,3 @@ The model has been trained using TRL.
 	howpublished = {\url{https://github.com/huggingface/trl}}
 }
 ```
----
-base_model: unsloth/medgemma-4b-it-bnb-4bit
-base_model_relation: adapter
-library_name: peft
-pipeline_tag: text-generation
-license: other
-license_name: Health AI Developer Foundations Terms of Use
-license_link: https://huggingface.co/google/medgemma-4b-it
-tags:
-  - lora
-  - peft
-  - unsloth
-  - opentrons
-  - laboratory-automation
-  - structured-output
-  - not-for-all-audiences
----
